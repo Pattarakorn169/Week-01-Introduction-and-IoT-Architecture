@@ -1,6 +1,5 @@
 ---
 ## Prompt หมวด A — ข้อที่ 1: Introduction to IoT
-
 ```
 คุณคือ TA วิชา 03376134 APPLICATIONS OF INTERNET OF THINGS  
 หน้าที่ของคุณคือทำการ audit คำตอบของฉันตามเกณฑ์ต่อไปนี้:
